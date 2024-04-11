@@ -42,15 +42,15 @@
 <!-- -->
     ssh user88@62.84.123.211 -i "C:\Users\User\Downloads\rstudio.key" -L 8787:127.0.0.1:8787
 
-![alt text](1.png)
+![1](https://github.com/EkaterinaBriskova/Yandex_Query1/assets/90749103/a7f626a0-db29-40d6-8b71-904d07a09b76)
 
 - Меняем пароль.
 
-![alt text](2.png)
+![2](https://github.com/EkaterinaBriskova/Yandex_Query1/assets/90749103/8bce8ce8-27ce-424f-8876-f830dda9c3c0)
 
 - Заходим под своим аккаунтом.
 
-![alt text](3.png)
+![3](https://github.com/EkaterinaBriskova/Yandex_Query1/assets/90749103/a2b38308-95fa-453e-b850-9c417c539dbd)
 
 - Выполняем практическое задание:
 

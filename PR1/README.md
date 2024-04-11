@@ -53,23 +53,23 @@ Cloud.
 
 -   Создать соединение для бакета в S3 хранилище
 
-![Alt text](1.png)
+![1](https://github.com/EkaterinaBriskova/Yandex_Query1/assets/90749103/85626b8e-f6c3-418c-92da-2cb8f9ce8edf)
 
 -   Заполняем поля с учетом допустимых символов, выбираем тип
     аутентификации – публичный. Вводим имя бакета в соответствующее поле
     и сохраняем.
 
-![Alt text](2.png)
+![2](https://github.com/EkaterinaBriskova/Yandex_Query1/assets/90749103/3ff3ff0b-6098-4063-8c96-6474210c5f29)
 
 -   Теперь, после создания соединения, укажем какой объект использовать
     в качестве источника данных. Для этого нужно сделать привязку
     данных.
 
-![Alt text](3.png)
+![3](https://github.com/EkaterinaBriskova/Yandex_Query1/assets/90749103/5a44da9a-d7f0-48ec-9dca-d7d3d3f9e891)
 
 -   Настройка привязки данных
 
-![Alt text](4.png)
+![4](https://github.com/EkaterinaBriskova/Yandex_Query1/assets/90749103/ba219c0e-31cc-4bfe-a654-34e0007a9857)
 
 ```{r}
 3+2
@@ -84,12 +84,12 @@ Cloud.
     bytes INT32
     )
 
-![Alt text](5.png)
+![5](https://github.com/EkaterinaBriskova/Yandex_Query1/assets/90749103/b1ea1813-17e9-43e8-88da-2c0aaef3cf15)
 
 Если настройки сделаны правильно, то можно попробовать сделать
 аналитический запрос и посмотреть результат
 
-![Alt text](6.png)
+![6](https://github.com/EkaterinaBriskova/Yandex_Query1/assets/90749103/73331bac-ab9b-4106-b097-855b84dfbd3c)
 
 ## Анализ
 
@@ -113,7 +113,7 @@ Cloud.
 символ является числом от 2 до 4. Знак ^ в регулярном выражении означает
 начало строки, а 2-4 означает любое число от 2 до 4.
 
-![Alt text](7.png)
+![7](https://github.com/EkaterinaBriskova/Yandex_Query1/assets/90749103/58ef5405-ef1b-4504-8fdc-17882740b1df)
 
 -   Определите суммарный объем исходящего трафика
 
@@ -137,7 +137,7 @@ Cloud.
 числом от 2 до 4. Знак ^ в регулярном выражении означает начало строки,
 а 2-4 означает любое число от 2 до 4.
 
-![Alt text](8.png)
+![8](https://github.com/EkaterinaBriskova/Yandex_Query1/assets/90749103/9e44c675-84cb-4a59-943a-9517b25f183b)
 
 -   Определите суммарный объем входящего трафика
 
@@ -161,7 +161,7 @@ Cloud.
 числом от 2 до 4. Знак ^ в регулярном выражении означает начало строки,
 а 2-4 означает любое число от 2 до 4.
 
-![Alt text](9.png)
+![9](https://github.com/EkaterinaBriskova/Yandex_Query1/assets/90749103/c82f2111-b5fd-46f7-b8a2-606bc05294ee)
 
 ## Вывод
 

@@ -94,12 +94,12 @@
 3.  Построить график активности (линейная диаграмма) объема
     трафика во времени
 
-![7](https://github.com/EkaterinaBriskova/Yandex_Query1/assets/90749103/710c0aa7-9eaf-4cb4-bd7d-7cc7fc684bdd)
+![7](https://github.com/EkaterinaBriskova/Yandex_Query1/assets/90749103/e9c964ad-1e52-41cb-af3d-114a50f1028a)
 
 4.  Все построенные графики вывести в виде единого дашборда в
     Yandex DataLens
 
-![8](https://github.com/EkaterinaBriskova/Yandex_Query1/assets/90749103/3da35796-c1e3-419c-b5a8-a9ed1b2cdfa4)
+![8](https://github.com/EkaterinaBriskova/Yandex_Query1/assets/90749103/23659dfe-63dd-48ef-b371-b96a0ae4afd8)
 
 ## Оценка результатов
 
